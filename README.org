@@ -1,5 +1,11 @@
 * Web Development II
 
 ** TODO PHP Basics
-** TODO Shopping website
+https://www.w3schools.com/php/default.asp
+- [ ] Basic syntax
 
+** TODO Classroom project
+- [ ] include / require
+- [ ] Form handling
+- [ ] Connecting to a database
+- [ ] Sessions
